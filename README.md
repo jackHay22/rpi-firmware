@@ -5,7 +5,7 @@
 - More to come
 
 ## With help from the following resources
-- [Scheduler/ASM](https://github.com/s-matyukevich/raspberry-pi-os)
+- [Scheduler/MMU/ASM](https://github.com/s-matyukevich/raspberry-pi-os)
 - [Display/mboxes](https://github.com/bztsrc/raspi3-tutorial)
 - [Font/glyphs](https://github.com/isometimes/rpi4-osdev)
 
