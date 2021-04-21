@@ -8,6 +8,7 @@
 - [Scheduler/MMU/ASM](https://github.com/s-matyukevich/raspberry-pi-os)
 - [Display/mboxes](https://github.com/bztsrc/raspi3-tutorial)
 - [Font/glyphs](https://github.com/isometimes/rpi4-osdev)
+- [UART](https://jsandler18.github.io/tutorial/boot.html)
 
 ## To build
 - aarch64 gcc toolchain of some sort (I used the x86 crosscompiler)
